@@ -32,6 +32,6 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "United and Industrial Republic",
                 "uniques": ["[+5 Happiness] <during a Golden Age>","[+5 Production] from all [Factory] buildings","[+85]% Strength <during a Golden Age> <for [Gunpowder] units>","[+60]% Production when constructing [Gunpowder] units [in your cities] <during a Golden Age>","[-30]% unhappiness from the number of cities <during a Golden Age>","[+1 Science] from all [National] buildings",],
-		"cities": ["Aofic City", "Laut Aof City", "De Latin", 'Vicevilla", "Koplington", "Carto City", "Xan City", "Aneroko Metropolis", "Cula Town", "Liefield", "Leeland", "Dutchest", "Palepa City", "Bestoris City", "Neston", "Istanbelgia", "San Lencoredia", "Lioneale", "Caplingten", "Dunake City", "Les Des City", 'Costa City", "Pinktown", "Palizanton", "Conenia City",]
+		"cities": ["Aofic City", "Laut Aof City", "De Latin", "Vicevilla", "Koplington", "Carto City", "Xan City", "Aneroko Metropolis", "Cula Town", "Liefield", "Leeland", "Dutchest", "Palepa City", "Bestoris City", "Neston", "Istanbelgia", "San Lencoredia", "Lioneale", "Caplingten", "Dunake City", "Les Des City", 'Costa City", "Pinktown", "Palizanton", "Conenia City",]
 	}
 ]
