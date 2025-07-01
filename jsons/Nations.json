@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Aof United",
+		"leaderName": "Aus Denman",
+		"adjective": ["Aofish"],
+		"startBias": ["Grassland", "Plains"],
+		"preferredVictoryType": "Cultural",
+                "favoredReligion": "Christianity",
+		
+		"startIntroPart1": "You and Aus Denman unite like Aof West and Aof East unite. Today make a great thing for Aof United. President!",
+                "startIntroPart2": "President, your people call you to bring good society to the country. Will you make a civilization that can which is acceptable to society?",
+		
+                "introduction": "I am Aus Denman, President of Aof United. We'll treat you with honor and respect, if you do the same.",
+		"declaringWar": "I'am declaring war to you. maybe you have a bad reputation.",
+		"attacked": "What do you want if you declare war? Well then... then you looked for it.",
+		"defeated": "This is unfortunate, after all, you are the victor.",
+		
+		"neutralHello": "Holla!",
+		"neutralLetsHearIt": ["Go on.","Alrigth let's see:"],
+		"neutralNo": ["Sorry this isn't appropriate.","I will decline.","I refuse. not good dealing."],
+		"neutralYes": ["Very good.","Great dealing.","Good Buissness."],
+
+		"hateHello": "You want to cause trouble again?!",
+		"hateLetsHearIt": ["You better have a good offer...","Fine..."],
+		"hateNo": ["I hate that.","How could you think I would accept that!?"],
+		"hateYes": ["Fine.","Good enough dealing."],
+		
+		"afterPeace": "Ok. war is over. Now peaceful.",
+		"tradeRequest": "Hello. we trading with good trade. economy and society",
+
+		"outerColor": [22,146,247],
+		"innerColor": [255,255,255],
+		"uniqueName": "United and Industrial Republic",
+                "uniques": ["[+5 Happiness] <during a Golden Age>","[+5 Production] from all [Factory] buildings","[+85]% Strength <during a Golden Age> <for [Gunpowder] units>","[+60]% Production when constructing [Gunpowder] units [in your cities] <during a Golden Age>","[-30]% unhappiness from the number of cities <during a Golden Age>","[+1 Science] from all [National] buildings",],
+		"cities": ["Aofic City", "Laut Aof City", "De Latin", 'Vicevilla", "Koplington", "Carto City", "Xan City", "Aneroko Metropolis", "Cula Town", "Liefield", "Leeland", "Dutchest", "Palepa City", "Bestoris City", "Neston", "Istanbelgia", "San Lencoredia", "Lioneale", "Caplingten", "Dunake City", "Les Des City", 'Costa City", "Pinktown", "Palizanton", "Conenia City",]
+	}
+]

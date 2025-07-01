@@ -1,0 +1,20 @@
+
+game.png
+size: 512, 250
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Aof United
+  rotate: false
+  xy: 7, 3
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Frontier Infantry Aofish
+  rotate: false
+  xy: 124, 15
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

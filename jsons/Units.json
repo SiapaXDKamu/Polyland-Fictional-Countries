@@ -1,0 +1,18 @@
+[
+// Aof United
+	{
+		"name": "Frontier Infantry Aofish",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Aof United",
+		"replaces": "Great War Infantry",
+                "upgradesTo": "Infantry",
+		"movement": 2,
+		"strength": 60,
+		"range": 2,
+		"cost": 280,
+		"requiredTech": "Replaceable Parts",
+                "uniques": [""uniques": ["Can move immediately once bought","[+35]% Strength <vs cities>","[55]% Strength <vs [Great War Infantry] units>","[55]% Strength <vs [Infantry] units>","[50]% Strength <vs [Mechanized Infantry] units>"],
+		"promotions": ["Blitz"],
+		"attackSound": "shot"
+	}
+]
