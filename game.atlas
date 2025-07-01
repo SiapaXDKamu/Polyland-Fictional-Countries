@@ -13,8 +13,8 @@ NationIcons/Aof United
   index: -1
 UnitIcons/Frontier Infantry Aofish
   rotate: false
-  xy: 110, 3
-  size: 100, 100
-  orig: 100, 100
+  xy: 111, 3
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
