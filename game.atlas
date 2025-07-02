@@ -18,3 +18,10 @@ UnitIcons/Frontier Infantry Aofish
   orig: 200, 200
   offset: 0, 0
   index: -1
+NationIcons/Swistika
+  rotate: false
+  xy: 3, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
