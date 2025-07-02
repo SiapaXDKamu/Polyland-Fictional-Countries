@@ -16,23 +16,53 @@
 		"defeated": "This is unfortunate, after all, you are the victor.",
 		
 		"neutralHello": "Holla!",
-		"neutralLetsHearIt": ["Go on.","Alrigth let's see:"],
 		"neutralNo": ["Sorry this isn't appropriate.","I will decline.","I refuse. not good dealing."],
 		"neutralYes": ["Very good.","Great dealing.","Good Buissness."],
 
 		"hateHello": "You want to cause trouble again?!",
-		"hateLetsHearIt": ["You better have a good offer...","Fine..."],
 		"hateNo": ["I hate that.","How could you think I would accept that!?"],
 		"hateYes": ["Fine.","Good enough dealing."],
 		
-		"afterPeace": "Ok. war is over. Now peaceful.",
 		"tradeRequest": "Hello. we trading with good trade. economy and society",
 
 		"outerColor": [22,146,247],
 		"innerColor": [255,255,255],
 		"uniqueName": "United and Industrial Republic",
-                "uniques": ["[+5 Happiness] <during a Golden Age>","[+5 Production] from all [Factory] buildings","[+85]% Strength <during a Golden Age> <for [Gunpowder] units>","[+60]% Production when constructing [Gunpowder] units [in your cities] <during a Golden Age>","[-30]% unhappiness from the number of cities <during a Golden Age>","[+1 Science] from all [National] buildings",],
+                "uniques": ["[+5 Happiness] <during a Golden Age>","[+5 Production] from every [Factory] buildings","[+85]% Strength <during a Golden Age> <for [Gunpowder] units>","[+60]% Production when constructing [Gunpowder] units [in your cities] <during a Golden Age>","[-30]% unhappiness from the number of cities <during a Golden Age>","[+1 Science] from all [National] buildings",],
 		"cities": ["Aofic City", "Laut Aof City", "De Latin", "Vicevilla", "Koplington", "Carto City", "Xan City", "Aneroko Metropolis", "Cula Town", "Liefield", "Leeland", "Dutchest", "Palepa City", "Bestoris City", "Neston", "Istanbelgia", "San Lencoredia", "Lioneale", "Caplingten", "Dunake City", "Les Des City", "Costa City", "Pinktown", "Palizanton", "Conenia City",]
 		"spyNames": ["Naden","Jeanio","Carlo","Serderio","Heden","Jose"],
+	}
+	{
+		"name": "Swistika",
+		"leaderName": "Ivani Flanski",
+		"adjective": ["Suchtian"],
+		"startBias": ["Tundra","Snow"],
+		"preferredVictoryType": "Domination",
+                "favoredReligion": "Christianity",
+		
+		"startIntroPart1": "Hello there, leader Swistika of Ivani Flanski. Chairman of the Swistika Communist Party. Your role control our nation to be better",
+                "startIntroPart2": "Come back, dear leader, your people call you to crush their enemies, and outshine their competitors. now make Swistika becoming to empire",
+		
+                "introduction": "Welcome to our Red and Black lands alias Swistika. I hope that our nations grow strong and in peace.",
+		"declaringWar": "I'am will destroy your nation for glory to Swistika.",
+		"attacked": "Come this far. But ye wished it so. Next time, be so good. i'am will later to destorying you,",
+		"defeated": "Is over. my nation is over.",
+		
+		"neutralHello": "Greetings.",
+		"neutralNo": ["Nope."],
+		"neutralYes": ["Good dealing."],
+
+		"hateHello": "What do YOU want?!",
+		"hateNo": ["Appaling deal...","No!"],
+		"hateYes": ["Fine."],
+		
+		"tradeRequest": "I'am make this deal. do you want?",
+
+		"outerColor": [183,28,28],
+		"innerColor": [0,0,0],
+		"uniqueName": "Deep Tundra",
+                "uniques": ["[+1 Culture] from every [Snow]","[+3 Production] from every [Lumber mill] <in [Tundra] tiles>","[+20]% Strength for cities <in [Tundra] tiles> <during a Golden Age>"],
+		"cities": ["Beningrad","Suchya Strana City","Lviv","Meingrad","Fediralisk","Cilova","Noltok","Mostok","Nanmisk","Gernovalisk","Nur-Liamisk","Gordiska","Mursgrad","Minisk","Beruja","Eradelisk","Bordit-En","Polisk","Nargrad"]
+		"spyNames": ["Ivani","Borik"],
 	}
 ]
