@@ -18,6 +18,27 @@ UnitIcons/Frontier Infantry Aofish
   orig: 200, 200
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Frontier Infantry Aofish
+  rotate: false
+  xy: 3, 1970
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Frontier Infantry Aofish-1
+  rotate: false
+  xy: 97, 1970
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Frontier Infantry Aofish-2
+  rotate: false
+  xy: 193, 1970
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 NationIcons/Swistika
   rotate: false
   xy: 3, 103
