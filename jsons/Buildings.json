@@ -1,0 +1,12 @@
+[
+// Aof United
+	{
+		"name": "Castalesden",
+    "hurryCostModifier": 20,
+		"replaces": "Armory",
+		"uniqueTo": "Aof United",
+    "requiredBuilding": "Barracks",
+		"uniques": ["New [Military] units start with [30] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Steel"
+	}
+]
