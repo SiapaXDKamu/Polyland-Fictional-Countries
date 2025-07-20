@@ -11,28 +11,28 @@ NationIcons/Aof United
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Frontier Infantry Aofish
+UnitIcons/Frontline Infantry Aofish
   rotate: false
   xy: 111, 3
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Frontier Infantry Aofish
+TileSets/AbsoluteUnits/Units/Frontline Infantry Aofish
   rotate: false
   xy: 3, 1970
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Frontier Infantry Aofish-1
+TileSets/AbsoluteUnits/Units/Frontline Infantry Aofish-1
   rotate: false
   xy: 97, 1970
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Frontier Infantry Aofish-2
+TileSets/AbsoluteUnits/Units/Frontlinw Infantry Aofish-2
   rotate: false
   xy: 193, 1970
   size: 95, 81
