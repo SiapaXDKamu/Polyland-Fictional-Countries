@@ -1,7 +1,7 @@
 [
 // Aof United
 	{
-		"name": "Frontier Infantry Aofish",
+		"name": "Frontline Infantry Aofish",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Aof United",
 		"replaces": "Great War Infantry",
