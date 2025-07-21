@@ -60,3 +60,24 @@ UnitIcons/Aluska Infantry
   orig: 200, 200
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Aluska Infantry
+  rotate: false
+  xy: 3, 1888
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aluska Infantry-1
+  rotate: false
+  xy: 98, 1888
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aluska Infantry-2
+  rotate: false
+  xy: 193, 1888
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
