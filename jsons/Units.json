@@ -20,7 +20,7 @@
 	{
 		"name": "Aluska Infantry",
 		"unitType": "Gunpowder",
-		"uniqueTo": "Aluska Infantry",
+		"uniqueTo": "Swistika",
 		"replaces": "Infantry",
                 "upgradesTo": "Mechanized Infantry",
 		"movement": 2,
