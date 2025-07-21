@@ -53,3 +53,10 @@ NationIcons/Swistika
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Aluska Infantry
+  rotate: false
+  xy: 515, 3
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
