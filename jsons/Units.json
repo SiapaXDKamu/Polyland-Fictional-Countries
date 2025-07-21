@@ -15,5 +15,22 @@
                 "uniques": ["Can move immediately once bought","[+35]% Strength <vs cities>","[+55]% Strength <vs [Great War Infantry] units>","[+55]% Strength <vs [Infantry] units>","[+55]% Strength <vs [Marine] units>","[+50]% Strength <vs [Mechanized Infantry] units>"],
 		"promotions": ["Blitz"],
 		"attackSound": "shot"
+	},
+// Swistika
+	{
+		"name": "Aluska Infantry",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Aluska Infantry",
+		"replaces": "Infantry",
+                "upgradesTo": "Mechanized Infantry",
+		"movement": 2,
+		"strength": 76,
+		"range": 2,
+		"cost": 360,
+		"requiredTech": "Plastics",
+		"obsoleteTech": "Mobile Tactics",
+                "uniques": ["[+35]% Strength <when fighting in [Tundra] tiles>","[+20]% Strength <vs [Tank] units> <when fighting in [Hill] tiles>","[+1] Range <in [Hill] tiles>"],
+		"promotions": ["Sentry"],
+		"attackSound": "shot"
 	}
 ]
