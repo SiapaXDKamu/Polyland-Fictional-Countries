@@ -16,6 +16,22 @@
 		"promotions": ["Blitz"],
 		"attackSound": "shot"
 	},
+	{
+		"name": "Arigas Narmy",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Aof United",
+		"replaces": "Infantry",
+                "upgradesTo": "Mechanized Infantry",
+		"movement": 2,
+		"strength": 78,
+		"range": 2,
+		"cost": 360,
+		"requiredTech": "Plastics",
+		"obsoleteTech": "Mobile Tactics",
+                "uniques": ["Can move immediately once bought","[+35]% Strength <vs cities>","Ignores terrain cost <in [Friendly Land] tiles> <when at war>","[+30]% Strength <vs [Ranged Gunpowder] units>"],
+		"promotions": ["Blitz"],
+		"attackSound": "shot"
+	},
 // Swistika
 	{
 		"name": "Aluska Infantry",
@@ -26,7 +42,7 @@
 		"movement": 2,
 		"strength": 76,
 		"range": 2,
-		"cost": 360,
+		"cost": 350,
 		"requiredTech": "Plastics",
 		"obsoleteTech": "Mobile Tactics",
                 "uniques": ["[+55]% Strength <when fighting in [Tundra] tiles>","[+50]% Strength <vs [Armored] units> <when fighting in [Hill] tiles>","[+1] Range <in [Hill] tiles>"],
