@@ -125,6 +125,6 @@ UnitIcons/Arigas Narmy
   rotate: false
   xy: 3, 3
   size: 700, 700
-  orig: 700, 700
+  orig: 600, 600
   offset: 0, 0
   index: -1
