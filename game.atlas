@@ -116,6 +116,7 @@ TileSets/AbsoluteUnits/Units/Aluska Infantry-2
   orig: 95, 81
   offset: 0, 0
   index: -1
+
 game2.png
 size: 2048, 2048
 format: RGBA8888
